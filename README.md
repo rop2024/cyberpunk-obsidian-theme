@@ -1,8 +1,8 @@
-# Cyber Quest
+# Neon Overdrive
 
 A dark cyberpunk theme for [Obsidian](https://obsidian.md/) featuring neon accents, cut-corner panels, terminal-inspired typography, and high-contrast headings.
 
-![Cyber Quest theme overview](screenshots/Screenshot%201.png)
+![Neon Overdrive theme overview](screenshots/Screenshot%201.png)
 
 ## Highlights
 
@@ -19,11 +19,11 @@ A dark cyberpunk theme for [Obsidian](https://obsidian.md/) featuring neon accen
 
 ### Editor and interface
 
-![Cyber Quest editor, sidebar, outline, calendar, and graph](screenshots/Screenshot%201.png)
+![Neon Overdrive editor, sidebar, outline, calendar, and graph](screenshots/Screenshot%201.png)
 
 ### Reading and formatting
 
-![Cyber Quest text formatting and Markdown elements](screenshots/Screenshot%202.png)
+![Neon Overdrive text formatting and Markdown elements](screenshots/Screenshot%202.png)
 
 ## Installation
 
@@ -32,15 +32,15 @@ A dark cyberpunk theme for [Obsidian](https://obsidian.md/) featuring neon accen
 1. Open **Settings** in Obsidian.
 2. Select **Appearance**.
 3. Open **Manage** next to **Themes**.
-4. Search for **Cyber Quest**.
+4. Search for **Neon Overdrive**.
 5. Select **Install and use**.
 
 ### Manual installation
 
 1. Download `manifest.json` and `theme.css` from the latest [GitHub release](https://github.com/rop2024/cyberpunk-obsidian-theme/releases).
-2. Create a folder named `cyberpunk-theme` inside your vault's `.obsidian/themes/` directory.
+2. Create a folder named `neon-overdrive` inside your vault's `.obsidian/themes/` directory.
 3. Copy `manifest.json` and `theme.css` into that folder.
-4. Open **Settings → Appearance** and select **Cyber Quest** as the theme.
+4. Open **Settings → Appearance** and select **Neon Overdrive** as the theme.
 
 ## Customization
 
