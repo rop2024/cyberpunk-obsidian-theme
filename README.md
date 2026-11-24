@@ -37,7 +37,7 @@ A dark cyberpunk theme for [Obsidian](https://obsidian.md/) featuring neon accen
 
 ### Manual installation
 
-1. Download `manifest.json` and `theme.css` from the latest [GitHub release](https://github.com/rop2024/cyberpunk-obsidian-theme/releases).
+1. Download `manifest.json` and `theme.css` from the latest [GitHub release](https://github.com/rop2024/neon-overdrive-theme/releases).
 2. Create a folder named `neon-overdrive` inside your vault's `.obsidian/themes/` directory.
 3. Copy `manifest.json` and `theme.css` into that folder.
 4. Open **Settings → Appearance** and select **Neon Overdrive** as the theme.
